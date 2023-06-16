@@ -1,7 +1,5 @@
 # Kafka-Consumer
 
-# Kafka-Consumer
-
 ## 📋 Prerequisite
 - SDK Java, Version 17
 - Docker
